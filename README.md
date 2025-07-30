@@ -99,7 +99,7 @@ src/
 
 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/grading-portal.git
+git clone https://github.com/sudo-init-do/grading-portal.git
 cd grading-portal
 ````
 
